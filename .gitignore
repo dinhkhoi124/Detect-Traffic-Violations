@@ -1,0 +1,13 @@
+# Environments
+venv/
+.gradio/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Weights (Nếu file best.pt > 100MB thì nên dùng Git LFS hoặc để link drive)
+# weights/best.pt 
+
+# OS files
+.DS_Store
